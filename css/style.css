@@ -1,0 +1,18 @@
+body{
+	background:url('../img/logo_nameless.jpg') no-repeat;
+	background-size: cover;
+	margin: 0px;
+}
+body img{
+	float: left;
+	width: 7%;
+}
+
+footer{
+	color: #bbb;
+	clear: both;
+	text-align: center;
+	margin: 0px;
+	padding: 10px 0px 10px 0px;
+	background: #3C743B;
+}
