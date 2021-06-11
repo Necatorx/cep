@@ -11,8 +11,8 @@ body img{
 footer{
 	color: #bbb;
 	clear: both;
-	text-align: center;
-	align: bottom; 
+	horizontal-align: center;
+	vertical-align: bottom; 
 	margin: 0px;
 	padding: 10px 0px 10px 0px;
 	background: #3C743B;
